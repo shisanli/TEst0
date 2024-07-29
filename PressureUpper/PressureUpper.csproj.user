@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormAboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDoctorEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDoctorQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCloud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPatientEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPatientQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPressureMock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRecordQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRegisterInstrument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TestPort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

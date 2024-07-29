@@ -1,0 +1,482 @@
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\testhost.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.deps.json
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.runtimeconfig.json
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.exe
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\testhost.exe
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\CH341SER.EXE
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Database\db.sql
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.deps.json
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.runtimeconfig.json
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.pdb
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Enums.NET.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\DrawFunctionLib.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\SharpGL.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\office.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.Vbe.Interop.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.pdb
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\DrawFunctionLib.pdb
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.xml
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\office.xml
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.csproj.AssemblyReference.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.AssemblyInfoInputs.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.AssemblyInfo.cs
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.csproj.CoreCompileInputs.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.csproj.CopyComplete
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\refint\PressureUpperTests.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.pdb
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.genruntimeconfig.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\ref\PressureUpperTests.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\refint\PressureUpperTests.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\testhost.exe
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\testhost.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.deps.json
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.runtimeconfig.json
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.exe
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\CH341SER.EXE
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Database\db.sql
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.deps.json
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.runtimeconfig.json
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Enums.NET.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\DrawFunctionLib.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\SharpGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\office.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.Vbe.Interop.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\DrawFunctionLib.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.xml
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\bin\Debug\net6.0-windows\office.xml
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.csproj.AssemblyReference.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.AssemblyInfoInputs.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.AssemblyInfo.cs
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.csproj.CoreCompileInputs.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.csproj.CopyComplete
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.genruntimeconfig.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\PressureUpperTests\obj\Debug\net6.0-windows\ref\PressureUpperTests.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\testhost.exe
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\testhost.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.deps.json
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.runtimeconfig.json
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.exe
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\CH341SER.EXE
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Database\db.sql
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.deps.json
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.runtimeconfig.json
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpperTests.pdb
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\EntityFramework.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Enums.NET.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\LiveCharts.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\NPOI.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\System.CodeDom.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\System.IO.Ports.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\System.Management.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\DrawFunctionLib.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\UsbInfoTools.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\SharpGL.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\office.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.Vbe.Interop.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\PressureUpper.pdb
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\DrawFunctionLib.pdb
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\UsbInfoTools.pdb
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.xml
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\bin\Debug\net6.0-windows\office.xml
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.csproj.AssemblyReference.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.AssemblyInfoInputs.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.AssemblyInfo.cs
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.csproj.CoreCompileInputs.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\Pressure.24BC8727.Up2Date
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\refint\PressureUpperTests.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.pdb
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\PressureUpperTests.genruntimeconfig.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\PressureUpperTests\obj\Debug\net6.0-windows\ref\PressureUpperTests.dll

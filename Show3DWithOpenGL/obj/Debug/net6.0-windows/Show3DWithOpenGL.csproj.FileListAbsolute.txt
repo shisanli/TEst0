@@ -1,0 +1,468 @@
+E:\C#Code\PressureUpper\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\C#Code\PressureUpper\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\PressureUpper\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\C#Code\PressureUpper\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\C#Code\PressureUpper\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\C#Code\PressureUpper\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\C#Code\PressureUpper\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\上位机代码\坐垫上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\上位机代码\坐垫上位机04-02\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-02晚\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\上位机代码\坐垫上位机04-14下午\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机04-17最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\Code\今日最新\膝关节压力上位机\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-19最新\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-19\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\c#Code\膝关节压力上位机海笑修改版07-20\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+C:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\C#Code\笔记本上传\上位机代码\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CopyComplete
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\Code\今日最新\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWi.942CA926.Up2Date
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\Code\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWi.942CA926.Up2Date
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22纳通\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWi.942CA926.Up2Date
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+D:\WorkCode\c#\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.deps.json
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.SceneGraph.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\bin\Debug\net6.0-windows\SharpGL.WinForms.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.AssemblyReference.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.Show3DControl.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.GenerateResource.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfoInputs.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.AssemblyInfo.cs
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.csproj.CoreCompileInputs.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWi.942CA926.Up2Date
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\refint\Show3DWithOpenGL.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\Show3DWithOpenGL.pdb
+E:\膝关节压力上位机海笑修改版07-22公司软著用\Show3DWithOpenGL\obj\Debug\net6.0-windows\ref\Show3DWithOpenGL.dll

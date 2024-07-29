@@ -1,0 +1,554 @@
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.AssemblyReference.cache
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinForm.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinMain.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinForm.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinMain.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Properties.Resources.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.ProgressIndicator.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAlphaWaterTextBox.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAnimatorImg.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinButton.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinGroupBox.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.KeyBoardForm.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTabControl.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTextBox.resources
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.GenerateResource.cache
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfoInputs.cache
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfo.cs
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.CoreCompileInputs.cache
+E:\C#Code\PressureUpper\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.deps.json
+E:\C#Code\PressureUpper\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.dll
+E:\C#Code\PressureUpper\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.pdb
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.dll
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\refint\CustomerSkin.dll
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.pdb
+E:\C#Code\PressureUpper\CustomerSkin\obj\Debug\net6.0-windows\ref\CustomerSkin.dll
+E:\C#Code\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.deps.json
+E:\C#Code\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.dll
+E:\C#Code\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.pdb
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.AssemblyReference.cache
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinForm.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinMain.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinForm.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinMain.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Properties.Resources.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.ProgressIndicator.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAlphaWaterTextBox.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAnimatorImg.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinButton.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinGroupBox.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.KeyBoardForm.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTabControl.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTextBox.resources
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.GenerateResource.cache
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfoInputs.cache
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfo.cs
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.CoreCompileInputs.cache
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.dll
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\refint\CustomerSkin.dll
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.pdb
+E:\C#Code\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\ref\CustomerSkin.dll
+D:\上位机代码\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.deps.json
+D:\上位机代码\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.dll
+D:\上位机代码\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.pdb
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.AssemblyReference.cache
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinForm.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinMain.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinForm.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinMain.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Properties.Resources.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.ProgressIndicator.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAlphaWaterTextBox.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAnimatorImg.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinButton.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinGroupBox.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.KeyBoardForm.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTabControl.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTextBox.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.GenerateResource.cache
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.GeneratedMSBuildEditorConfig.editorconfig
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfoInputs.cache
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfo.cs
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.CoreCompileInputs.cache
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.dll
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\refint\CustomerSkin.dll
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.pdb
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\ref\CustomerSkin.dll
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinButtonExt.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinImgButton.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.UserControlBase.resources
+D:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.UIEditor.FrmSelectImage.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.deps.json
+C:\上位机代码\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.dll
+C:\上位机代码\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.pdb
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.AssemblyReference.cache
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinForm.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinMain.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinForm.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinMain.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Properties.Resources.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.ProgressIndicator.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAlphaWaterTextBox.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAnimatorImg.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinButton.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinGroupBox.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinButtonExt.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinImgButton.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.UserControlBase.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.KeyBoardForm.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTabControl.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTextBox.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.UIEditor.FrmSelectImage.resources
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.GenerateResource.cache
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfoInputs.cache
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfo.cs
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.CoreCompileInputs.cache
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.dll
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\refint\CustomerSkin.dll
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.pdb
+C:\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\ref\CustomerSkin.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.deps.json
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.pdb
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.AssemblyReference.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnsGroup.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnExt.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnFillet.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnImg.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDropDownBtn.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCheckBox.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCombox.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCComboxGrid.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCComboxGridPanel.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridView.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridViewRow.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridViewTreeRow.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCalendarNotes.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCalendarNotes_Week.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDatePickerExt.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDatePickerExt2.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDateTimeSelectPan.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDateTimeSelectPan2.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTimePanel.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBlower.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCEllipseDialAisle.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMindMappingPanel.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCRotor.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.FactoryControls.Syringe.UCSyringe_Horizontal.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSyringe.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTurntable.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderAll.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderNum.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderPay.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDData.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDDataTime.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDNums.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDTime.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCHorizontalList.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCHorizontalListItem.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListExt.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListItemExt.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListView.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListViewItem.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenu.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenuChildrenItem.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenuParentItem.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenu.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenuExt.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenuOffice.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCrumbNavigation.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControl.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControl2.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControlBase.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPanelTitle.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessEllipse.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessExt.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessLineExt.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessWave.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCRadioButton.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCVScrollbar.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSplitLine_H.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSplitLine_V.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCStep.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSwitch.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.TextBoxTransparent.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNumTextBox.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTextBoxEx.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTimeLine.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTransfer.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCControlBase.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmAnchor.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmAnchorTips.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmBack.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmBase.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmDialog.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmInputs.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmLoading.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmTips.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmTransparent.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWaiting.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithOKCancel1.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithOKCancel2.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithTitle.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinForm.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinMain.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinForm.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinMain.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Properties.Resources.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.ProgressIndicator.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAlphaWaterTextBox.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAnimatorImg.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinButton.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinGroupBox.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinButtonExt.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinImgButton.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.UserControlBase.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.KeyBoardForm.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTabControl.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTextBox.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.UIEditor.FrmSelectImage.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.FrmSelectImage.resources
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.GenerateResource.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfoInputs.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfo.cs
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.CoreCompileInputs.cache
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\refint\CustomerSkin.dll
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.pdb
+E:\C#Code\笔记本上传\上位机代码\坐垫上位机\CustomerSkin\obj\Debug\net6.0-windows\ref\CustomerSkin.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.deps.json
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.pdb
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.AssemblyReference.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnsGroup.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnExt.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnFillet.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnImg.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDropDownBtn.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCheckBox.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCombox.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCComboxGrid.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCComboxGridPanel.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridView.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridViewRow.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridViewTreeRow.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCalendarNotes.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCalendarNotes_Week.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDatePickerExt.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDatePickerExt2.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDateTimeSelectPan.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDateTimeSelectPan2.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTimePanel.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBlower.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCEllipseDialAisle.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMindMappingPanel.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCRotor.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.FactoryControls.Syringe.UCSyringe_Horizontal.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSyringe.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTurntable.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderAll.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderNum.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderPay.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDData.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDDataTime.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDNums.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDTime.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCHorizontalList.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCHorizontalListItem.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListExt.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListItemExt.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListView.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListViewItem.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenu.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenuChildrenItem.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenuParentItem.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenu.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenuExt.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenuOffice.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCrumbNavigation.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControl.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControl2.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControlBase.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPanelTitle.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessEllipse.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessExt.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessLineExt.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessWave.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCRadioButton.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCVScrollbar.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSplitLine_H.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSplitLine_V.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCStep.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSwitch.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.TextBoxTransparent.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNumTextBox.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTextBoxEx.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTimeLine.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTransfer.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCControlBase.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCWaveChart.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmAnchor.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmAnchorTips.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmBack.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmBase.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmDialog.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmInputs.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmLoading.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmTips.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmTransparent.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWaiting.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithOKCancel1.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithOKCancel2.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithTitle.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinForm.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinMain.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinForm.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinMain.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Properties.Resources.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.ProgressIndicator.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAlphaWaterTextBox.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAnimatorImg.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinButton.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinGroupBox.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinButtonExt.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinImgButton.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.UserControlBase.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.KeyBoardForm.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTabControl.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTextBox.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.UIEditor.FrmSelectImage.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.FrmSelectImage.resources
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.GenerateResource.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfoInputs.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfo.cs
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.CoreCompileInputs.cache
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\refint\CustomerSkin.dll
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.pdb
+C:\Code\今日最新\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\ref\CustomerSkin.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.deps.json
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.AssemblyReference.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnsGroup.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnExt.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnFillet.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnImg.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDropDownBtn.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCheckBox.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCombox.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCComboxGrid.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCComboxGridPanel.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridView.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridViewRow.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridViewTreeRow.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCalendarNotes.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCalendarNotes_Week.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDatePickerExt.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDatePickerExt2.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDateTimeSelectPan.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDateTimeSelectPan2.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTimePanel.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBlower.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCEllipseDialAisle.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMindMappingPanel.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCRotor.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.FactoryControls.Syringe.UCSyringe_Horizontal.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSyringe.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTurntable.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderAll.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderNum.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderPay.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDData.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDDataTime.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDNums.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDTime.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCHorizontalList.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCHorizontalListItem.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListExt.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListItemExt.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListView.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListViewItem.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenu.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenuChildrenItem.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenuParentItem.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenu.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenuExt.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenuOffice.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCrumbNavigation.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControl.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControl2.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControlBase.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPanelTitle.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessEllipse.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessExt.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessLineExt.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessWave.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCRadioButton.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCVScrollbar.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSplitLine_H.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSplitLine_V.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCStep.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSwitch.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.TextBoxTransparent.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNumTextBox.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTextBoxEx.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTimeLine.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTransfer.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCControlBase.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCWaveChart.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmAnchor.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmAnchorTips.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmBack.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmBase.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmDialog.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmInputs.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmLoading.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmTips.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmTransparent.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWaiting.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithOKCancel1.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithOKCancel2.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithTitle.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinForm.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinMain.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinForm.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinMain.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Properties.Resources.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.ProgressIndicator.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAlphaWaterTextBox.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAnimatorImg.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinButton.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinGroupBox.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinButtonExt.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinImgButton.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.UserControlBase.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.KeyBoardForm.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTabControl.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTextBox.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.UIEditor.FrmSelectImage.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.FrmSelectImage.resources
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.GenerateResource.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfoInputs.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfo.cs
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.CoreCompileInputs.cache
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\refint\CustomerSkin.dll
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.pdb
+C:\膝关节2023-07-15\膝关节压力上位机 - 07-15最新\CustomerSkin\obj\Debug\net6.0-windows\ref\CustomerSkin.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.deps.json
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\bin\Debug\net6.0-windows\CustomerSkin.pdb
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnsGroup.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnExt.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnFillet.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBtnImg.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDropDownBtn.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCheckBox.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCombox.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCComboxGrid.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCComboxGridPanel.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridView.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridViewRow.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDataGridViewTreeRow.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCalendarNotes.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCalendarNotes_Week.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDatePickerExt.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDatePickerExt2.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDateTimeSelectPan.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCDateTimeSelectPan2.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTimePanel.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCBlower.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCEllipseDialAisle.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMindMappingPanel.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCRotor.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.FactoryControls.Syringe.UCSyringe_Horizontal.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSyringe.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTurntable.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderAll.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderNum.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCKeyBorderPay.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDData.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDDataTime.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDNums.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCLEDTime.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCHorizontalList.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCHorizontalListItem.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListExt.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListItemExt.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListView.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCListViewItem.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenu.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenuChildrenItem.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCMenuParentItem.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenu.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenuExt.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNavigationMenuOffice.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCCrumbNavigation.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControl.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControl2.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPagerControlBase.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCPanelTitle.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessEllipse.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessExt.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessLineExt.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCProcessWave.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCRadioButton.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCVScrollbar.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSplitLine_H.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSplitLine_V.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCStep.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCSwitch.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.TextBoxTransparent.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCNumTextBox.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTextBoxEx.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTimeLine.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCTransfer.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCControlBase.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Controls.UCWaveChart.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmAnchor.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmAnchorTips.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmBack.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmBase.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmDialog.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmInputs.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmLoading.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmTips.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmTransparent.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWaiting.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithOKCancel1.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithOKCancel2.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Forms.FrmWithTitle.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinForm.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinMain.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinForm.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.CustomerSkinMain.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.Properties.Resources.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.ProgressIndicator.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAlphaWaterTextBox.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinAnimatorImg.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinButton.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinGroupBox.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinButtonExt.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.SkinImgButton.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinImgButton.UserControlBase.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.KeyBoardForm.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTabControl.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.SkinTextBox.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.SkinControl.UIEditor.FrmSelectImage.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.FrmSelectImage.resources
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.GenerateResource.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.GeneratedMSBuildEditorConfig.editorconfig
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfoInputs.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.AssemblyInfo.cs
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.csproj.CoreCompileInputs.cache
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\refint\CustomerSkin.dll
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\CustomerSkin.pdb
+E:\膝关节压力上位机海笑修改版07-22公司软著用\CustomerSkin\obj\Debug\net6.0-windows\ref\CustomerSkin.dll

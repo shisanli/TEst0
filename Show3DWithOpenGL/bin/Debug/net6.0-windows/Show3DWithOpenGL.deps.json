@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Show3DWithOpenGL/1.0.0": {
+        "dependencies": {
+          "SharpGL": "2.3.0.1",
+          "SharpGL.SceneGraph": "2.3.0.1",
+          "SharpGL.WinForms": "2.3.0.1"
+        },
+        "runtime": {
+          "Show3DWithOpenGL.dll": {}
+        }
+      },
+      "SharpGL/2.3.0.1": {
+        "runtime": {
+          "SharpGL.dll": {
+            "assemblyVersion": "2.3.0.1",
+            "fileVersion": "2.3.0.1"
+          }
+        }
+      },
+      "SharpGL.SceneGraph/2.3.0.1": {
+        "runtime": {
+          "SharpGL.SceneGraph.dll": {
+            "assemblyVersion": "2.3.0.1",
+            "fileVersion": "2.3.0.1"
+          }
+        }
+      },
+      "SharpGL.WinForms/2.3.0.1": {
+        "runtime": {
+          "SharpGL.WinForms.dll": {
+            "assemblyVersion": "2.3.0.1",
+            "fileVersion": "2.3.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Show3DWithOpenGL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpGL/2.3.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpGL.SceneGraph/2.3.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpGL.WinForms/2.3.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

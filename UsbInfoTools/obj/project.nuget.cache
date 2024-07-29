@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNkX/nmDmwq2gKVPdeYlDyJhh2k00UBSfuw2xJIRO5xPX613Veb2SJzfX8IdT7oWA0FWAezgo+bm7BFqzxRLRQ==",
+  "success": true,
+  "projectFilePath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\UsbInfoTools\\UsbInfoTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\99798\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\99798\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="SkinControl\IconFont\ElegantIcons.ttf" />
+    <None Remove="SkinControl\IconFont\FontAwesome.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="SkinControl\IconFont\ElegantIcons.ttf" />
+    <EmbeddedResource Include="SkinControl\IconFont\FontAwesome.ttf" />
+  </ItemGroup>
+
+</Project>

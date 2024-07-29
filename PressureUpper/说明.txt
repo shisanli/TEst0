@@ -1,0 +1,3 @@
+﻿1、ColorMap.cs 修改  FallRdGr() 195行
+2、DrawFunction3DShow.cs 修改 RefreshImage() 519行
+3、DrawModel3D.cs 修改 Interp() 392行

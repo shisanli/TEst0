@@ -1,0 +1,89 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Resources\name.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Skin\1.jpg" />
+    <None Remove="Skin\2.jpg" />
+    <None Remove="Skin\3.jpg" />
+    <None Remove="Skin\4.jpg" />
+    <None Remove="Skin\5.jpg" />
+    <None Remove="Skin\6.jpg" />
+    <None Remove="Skin\7.jpg" />
+    <None Remove="Skin\8.jpg" />
+    <None Remove="Skin\Back.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\name.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Skin\1.jpg" />
+    <EmbeddedResource Include="Skin\2.jpg" />
+    <EmbeddedResource Include="Skin\3.jpg" />
+    <EmbeddedResource Include="Skin\4.jpg" />
+    <EmbeddedResource Include="Skin\5.jpg" />
+    <EmbeddedResource Include="Skin\6.jpg" />
+    <EmbeddedResource Include="Skin\Back.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.Sharp" Version="6.3.0" />
+    <PackageReference Include="LiveCharts.WinForms" Version="0.9.7.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="NPOI" Version="2.6.0" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.117" />
+    <PackageReference Include="System.IO.Ports" Version="6.0.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DrawFunctionLib\DrawFunctionLib.csproj" />
+    <ProjectReference Include="..\Show3DWithOpenGL\Show3DWithOpenGL.csproj" />
+    <ProjectReference Include="..\UsbInfoTools\UsbInfoTools.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word">
+      <HintPath>..\packages\Microsoft.Office.Interop.Word.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="CH341SER.EXE">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Database\db.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

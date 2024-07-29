@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Controls\BtnsGroup\UCBtnsGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Btn\UCBtnExt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Btn\UCBtnFillet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Btn\UCBtnImg.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Btn\UCDropDownBtn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Charts\FunnelChart\UCFunnelChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Charts\RadarChart\UCRadarChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Checkbox\UCCheckBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\ComboBox\UCCombox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\ComboBox\UCComboxGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\ComboBox\UCComboxGridPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DataGridView\UCDataGridView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DataGridView\UCDataGridViewRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DataGridView\UCDataGridViewTreeRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DateTime\UCCalendarNotes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DateTime\UCCalendarNotes_Week.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DateTime\UCDatePickerExt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DateTime\UCDatePickerExt2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DateTime\UCDateTimeSelectPan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DateTime\UCDateTimeSelectPan2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DateTime\UCTimePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Arrow\UCArrow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Blower\UCBlower.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Bottle\UCBottle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Conduit\UCConduit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Conveyor\UCConveyor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\DialAisle\UCDialAisle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\EllipseDialAisle\UCEllipseDialAisle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\House\UCHouse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Lamp\UCAlarmLamp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Lamp\UCSignalLamp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Meter\UCMeter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\MindMapping\UCMindMapping.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\MindMapping\UCMindMappingPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Pond\UCPond.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Rotor\UCRotor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Syringe\UCSyringe_Horizontal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Syringe\UCSyringe_Vertical.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Thermometer\UCThermometer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Turntable\UCTurntable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\FactoryControls\Valve\UCValve.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\GraphicalOverlay\GraphicalOverlayComponent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\KeyBord\UCKeyBorderAll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\KeyBord\UCKeyBorderNum.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\KeyBord\UCKeyBorderPay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\LED\UCLEDData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\LED\UCLEDDataTime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\LED\UCLEDNum.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\LED\UCLEDNums.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\LED\UCLEDTime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\List\UCHorizontalList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\List\UCHorizontalListItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\List\UCListExt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\List\UCListItemExt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\List\UCListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\List\UCListViewItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Menu\UCMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Menu\UCMenuChildrenItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Menu\UCMenuParentItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\NavigationMenu\UCNavigationMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\NavigationMenu\UCNavigationMenuExt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\NavigationMenu\UCNavigationMenuOffice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Navigation\UCCrumbNavigation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Page\UCPagerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Page\UCPagerControl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Page\UCPagerControlBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Panel\UCPanelQuote.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\Panel\UCPanelTitle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Process\UCProcessEllipse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Process\UCProcessExt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Process\UCProcessLine.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\Process\UCProcessLineExt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Process\UCProcessRoll.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\Process\UCProcessWave.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\RadioButton\UCRadioButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Roll\UCRollText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Sampling\UCSampling.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\ScrollBar\ScrollbarComponent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\ScrollBar\UCHScrollbar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\ScrollBar\UCVScrollbar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Shadow\ShadowComponent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\SplitLabel\UCSplitLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\Split\UCSplitLine_H.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Split\UCSplitLine_V.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Step\UCStep.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Switch\UCSwitch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Tab\TabControlExt.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\Text\TextBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\Text\TextBoxTransparent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\Text\UCNumTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Text\UCTextBoxEx.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\TimeLine\UCTimeLine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\TrackBar\UCTrackBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\Transfer\UCTransfer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Treeview\TreeViewEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\UCControlBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Verification\VerificationComponent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\Wave\UCWave.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\Wave\UCWaveChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmAnchor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmAnchorTips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmInputs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmTips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmTransparent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmWaiting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmWithOKCancel1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmWithOKCancel2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmWithTitle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\AllSkin\SkinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\AllSkin\SkinMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\CSkin\CustomerSkinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\CSkin\CustomerSkinMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SkinControl\Animator\DecorationControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SkinControl\Animator\DoubleBitmapControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\Animator\SkinAnimator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\ProgressIndicator\ProgressIndicator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\RtfRichTextBox\RtfRichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\ScrollBar\SkinHScrollBar\SkinHScrollBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\ScrollBar\SkinVScrollBar\SkinVScrollBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinAlphaWaterTextBox\SkinAlphaWaterTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinAnimatorImg\SkinAnimatorImg.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinButton\SkinButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinCheckBox\SkinCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinColorSelectPanel\SkinColorSelectPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinComboBox\SkinComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinDataGridView\SkinDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinGroupBox\SkinGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinImgButton\SkinButtonExt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinImgButton\SkinImgButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinImgButton\UserControlBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinKey\KeyBoardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinLabel\SkinLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinListBox\SkinListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinNumericUpDown\SkinNumericUpDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinPanel\SkinPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinPictureBox\SkinPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinProgressBar\SkinProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinRadioButton\SkinRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinRichTextBox\SkinGifBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinRichTextBox\SkinRichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinStrip\SkinContextMenuStrip\SkinContextMenuStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinStrip\SkinMenuStrip\SkinMenuStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinStrip\SkinToolStrip\SkinToolStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinTabControl\SkinTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinTextBox\SkinTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinTextBox\SkinWaterTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinToolTip\SkinToolTip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinTrackBar\SkinTrackBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\SkinTrackBar\TrackBarBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SkinControl\UIEditor\FrmSelectImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UIEditor\FrmSelectImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

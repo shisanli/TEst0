@@ -1,0 +1,210 @@
+/* 公共样式表css */
+html,body {
+    color: #333;
+    margin: 0;
+    height: 100%;
+    font-family: "Myriad Set Pro","Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: normal;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+img {
+    border: 0;
+}
+
+body {
+    background: #fff;
+    color: #666;
+}
+
+html, body, div, dl, dt, dd, ol, ul, li, h1, h2, h3, h4, h5, h6, p, blockquote, pre, button, fieldset, form, input, legend, textarea, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #08acee;
+}
+
+button {
+    outline: 0;
+}
+
+img {
+    border: 0;
+}
+
+button,input,optgroup,select,textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+    outline: none;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: #666;
+}
+
+.clearfix::after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+.clearfix {
+}
+
+/* 必要布局样式css */
+.magic-background {
+    background: #f3f7ff;
+    height: 860px;
+}
+
+.magic-content {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.magic-header {
+    padding-top: 97px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.magic-header-title {
+    font-size: 50px;
+    color: #333;
+    font-weight: normal;
+    line-height: 1;
+}
+
+.magic-tab {
+    padding-top: 68px;
+    font-size: 0;
+    /* display: inline-block; */
+    /* position: relative; */
+}
+
+.magic-tab-head {
+    width: 220px;
+    margin: 0 auto;
+}
+
+.magic-tab-head ul li {
+    padding-bottom: 15px;
+    width: 70px;
+    margin-left: 70px;
+    color: #333;
+    font-size: 18px;
+    padding: 0 12px 15px 12px;
+    line-height: 1;
+    width: auto;
+    cursor: pointer;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    height: 33px;
+    float: left;
+}
+
+.magic-tab-head ul .on {
+    color: #4975e5;
+    border-bottom: 2px solid #4975e5;
+}
+
+.magic-tab-body ul {
+    margin-top: 90px;
+    margin-left: -60px;
+    text-align: center;
+    width: 1330px;
+}
+
+.magic-tab-body ul li {
+    margin: 0 93px;
+    float: left;
+    width: 465px;
+    margin-bottom: 60px;
+}
+
+.magic-item-title {
+    text-align: right;
+    float: left;
+    margin-right: 30px;
+    width: 80px;
+    margin-left: -20px;
+}
+
+.magic-item-text {
+    font-size: 25px;
+    line-height: 1;
+    font-weight: normal;
+    height: 36px;
+    overflow: hidden;
+}
+
+.magic-item-time {
+    font-size: 14px;
+    color: #999;
+    margin: 0;
+    line-height: 1.8;
+    height: 50px;
+    overflow: hidden;
+}
+
+.magic-item-info {
+    float: left;
+    width: 355px;
+    text-align: left;
+}
+
+.magic-item-info p {
+    font-size: 14px;
+    color: #999;
+    margin: 0;
+    line-height: 1.8;
+    height: 50px;
+    overflow: hidden;
+}
+
+.magic-info-title {
+    font-size: 18px;
+    width: 355px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.magic-info-title a:hover{color:#2f82ff;}
+
+.icon-hot {
+    display: inline-block;
+    _zoom: 1;
+    width: 25px;
+    height: 25px;
+    background: url(./hot.png);
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.magic-info-text {
+    vertical-align: middle;
+}

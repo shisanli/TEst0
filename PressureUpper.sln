@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PressureUpper", "PressureUpper\PressureUpper.csproj", "{1C9C7641-FCAD-461C-B09E-2C2A9134BD2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Show3DWithOpenGL", "Show3DWithOpenGL\Show3DWithOpenGL.csproj", "{0B3CE806-4022-4991-A375-C325EA18893C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawFunctionLib", "DrawFunctionLib\DrawFunctionLib.csproj", "{D1A75EB6-FD71-49D5-9528-F15A4CA99F26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerSkin", "CustomerSkin\CustomerSkin.csproj", "{1B8BF5EC-CD48-4EF0-9DC7-4FFE8E485718}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PressureUpperTests", "PressureUpperTests\PressureUpperTests.csproj", "{33D8481D-DAD3-41E2-883D-442B6CBEDB7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsbInfoTools", "UsbInfoTools\UsbInfoTools.csproj", "{6D9751BA-E9CA-462F-9BBA-FD21A5B26DC9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupKnee", "SetupKnee\SetupKnee.vdproj", "{84CC2060-F4EE-41FF-8C82-C5E16C28EE4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9C7641-FCAD-461C-B09E-2C2A9134BD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9C7641-FCAD-461C-B09E-2C2A9134BD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9C7641-FCAD-461C-B09E-2C2A9134BD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9C7641-FCAD-461C-B09E-2C2A9134BD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3CE806-4022-4991-A375-C325EA18893C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3CE806-4022-4991-A375-C325EA18893C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3CE806-4022-4991-A375-C325EA18893C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3CE806-4022-4991-A375-C325EA18893C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A75EB6-FD71-49D5-9528-F15A4CA99F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A75EB6-FD71-49D5-9528-F15A4CA99F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A75EB6-FD71-49D5-9528-F15A4CA99F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A75EB6-FD71-49D5-9528-F15A4CA99F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8BF5EC-CD48-4EF0-9DC7-4FFE8E485718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8BF5EC-CD48-4EF0-9DC7-4FFE8E485718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8BF5EC-CD48-4EF0-9DC7-4FFE8E485718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8BF5EC-CD48-4EF0-9DC7-4FFE8E485718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D8481D-DAD3-41E2-883D-442B6CBEDB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D8481D-DAD3-41E2-883D-442B6CBEDB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D8481D-DAD3-41E2-883D-442B6CBEDB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D8481D-DAD3-41E2-883D-442B6CBEDB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9751BA-E9CA-462F-9BBA-FD21A5B26DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9751BA-E9CA-462F-9BBA-FD21A5B26DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9751BA-E9CA-462F-9BBA-FD21A5B26DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9751BA-E9CA-462F-9BBA-FD21A5B26DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84CC2060-F4EE-41FF-8C82-C5E16C28EE4A}.Debug|Any CPU.ActiveCfg = Debug
+		{84CC2060-F4EE-41FF-8C82-C5E16C28EE4A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25B1116-0B1A-4AFB-B252-83C8DA494D01}
+	EndGlobalSection
+EndGlobal

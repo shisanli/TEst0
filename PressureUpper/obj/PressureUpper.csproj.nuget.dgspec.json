@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\PressureUpper\\PressureUpper.csproj": {}
+  },
+  "projects": {
+    "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\DrawFunctionLib\\DrawFunctionLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\DrawFunctionLib\\DrawFunctionLib.csproj",
+        "projectName": "DrawFunctionLib",
+        "projectPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\DrawFunctionLib\\DrawFunctionLib.csproj",
+        "packagesPath": "C:\\Users\\99798\\.nuget\\packages\\",
+        "outputPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\DrawFunctionLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\99798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\PressureUpper\\PressureUpper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\PressureUpper\\PressureUpper.csproj",
+        "projectName": "PressureUpper",
+        "projectPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\PressureUpper\\PressureUpper.csproj",
+        "packagesPath": "C:\\Users\\99798\\.nuget\\packages\\",
+        "outputPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\PressureUpper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\99798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\DrawFunctionLib\\DrawFunctionLib.csproj": {
+                "projectPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\DrawFunctionLib\\DrawFunctionLib.csproj"
+              },
+              "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\Show3DWithOpenGL\\Show3DWithOpenGL.csproj": {
+                "projectPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\Show3DWithOpenGL\\Show3DWithOpenGL.csproj"
+              },
+              "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\UsbInfoTools\\UsbInfoTools.csproj": {
+                "projectPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\UsbInfoTools\\UsbInfoTools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "LiveCharts.WinForms": {
+              "target": "Package",
+              "version": "[0.9.7.1, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\Show3DWithOpenGL\\Show3DWithOpenGL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\Show3DWithOpenGL\\Show3DWithOpenGL.csproj",
+        "projectName": "Show3DWithOpenGL",
+        "projectPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\Show3DWithOpenGL\\Show3DWithOpenGL.csproj",
+        "packagesPath": "C:\\Users\\99798\\.nuget\\packages\\",
+        "outputPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\Show3DWithOpenGL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\99798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\UsbInfoTools\\UsbInfoTools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\UsbInfoTools\\UsbInfoTools.csproj",
+        "projectName": "UsbInfoTools",
+        "projectPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\UsbInfoTools\\UsbInfoTools.csproj",
+        "packagesPath": "C:\\Users\\99798\\.nuget\\packages\\",
+        "outputPath": "E:\\膝关节压力上位机海笑修改版07-22公司软著用\\UsbInfoTools\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\99798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Management": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
